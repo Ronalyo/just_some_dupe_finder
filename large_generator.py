@@ -10,7 +10,7 @@ def generate_large_file(
     min_len: int,
     max_len: int,
     chunk_size: int
-) -> None:
+):
     letters = string.ascii_lowercase
     written = 0
 
