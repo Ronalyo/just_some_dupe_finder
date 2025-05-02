@@ -4,9 +4,9 @@ Ever had 2 text files you want to merge without duplicates but they're so huge y
 
 This is more so a demo of
 
-1. **external-memory sort** for sorting large files **in O(NlogR) time**   
+1. **external-memory sort** for sorting large files in **O(NlogR) time**   
    (N is no. of entry, R is allowed ram memory size)
-2. **sliding window merge** only requiring **O(1) aux space** while 
+2. **sliding window merge** only requiring **O(1) aux space** while taking **O(N+M) time** (N, M being the size of files merged, _of course_)
 
 ### Bonus content 🎉
 
