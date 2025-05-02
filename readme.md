@@ -1,6 +1,6 @@
 ## Dupe Entry Finder
 
-Ever had 2 lists you want to merge but they're so huge you **can't just load them into memory** at the same time? Me neither! 
+Ever had 2 text files you want to merge without duplicates but they're so huge you **can't just load them into memory** at the same time? Me neither! 
 
 This is more so a demo of
 
@@ -10,4 +10,4 @@ This is more so a demo of
 
 ### Bonus content 🎉
 
-Comes with a random large txt generator (also in chunks), cuz why not
+Comes with a **random large txt generator** (also in chunks) to generate test cases with
